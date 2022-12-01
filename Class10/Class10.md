@@ -6,7 +6,7 @@ Celline Kim
 
 Here we explore 538 Halloween candy data. They recently ran a rather
 large poll to determine which candy their readers like the best. From
-theier website: “While we don’t know who exactly voted, we do know this:
+their website: “While we don’t know who exactly voted, we do know this:
 8,371 different IP addresses voted on about 269,000 randomly generated
 candy matchups”.
 
